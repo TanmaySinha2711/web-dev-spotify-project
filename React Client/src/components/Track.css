@@ -1,0 +1,21 @@
+.wbdv-track{
+  color: white;
+}
+
+.wbdv-like-button {
+  color: #000;
+  margin-top: 5px;
+}
+
+.wbdv-unlike-button {
+  color: #dc3545;
+  margin-top: 5px;
+}
+
+.wbdv-details-btn {
+  margin-top: 11px;
+}
+
+.wbdv-delete-from-playlist {
+  color: #dc3545;
+}

@@ -1,0 +1,77 @@
+.wbdv-details {
+  border: 1px solid #adb5bd;
+  padding: 10px;
+  background-color: #495057;
+  color: white;
+  position: relative;
+  min-height: 150px;
+}
+
+.wbdv-details-header {
+  position: relative;
+  min-height: 185px;
+
+}
+
+.wbdv-background-color {
+  background-color: #343a40;
+  min-height: 100vh;
+  padding-top: 30px;
+}
+
+.wbdv-details-popularity {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%
+}
+
+.wbdv-reviewer-name{
+  color: white;
+  border-radius: 10px;
+  border: 1px solid #adb5bd;
+  background-color: #495057;
+  color: white;
+  position: relative;
+}
+
+
+.wbdv-add-review {
+  display: flex;
+  justify-content: center;
+}
+
+.wbdv-artist-search {
+  color: white;
+}
+
+.wbdv-artist-search:hover {
+  color: white;
+}
+
+.wbdv-like-button {
+  color: #000;
+  margin-top: 5px;
+
+
+}
+
+.wbdv-unlike-button {
+  color: #dc3545;
+  margin-top: 5px;
+
+}
+
+
+
+.wbdv-profile-link {
+  color: white;
+}
+
+.wbdv-profile-link:hover {
+  color: white;
+}
+.wbdv-delete-review {
+  float: right;
+
+}

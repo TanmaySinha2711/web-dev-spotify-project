@@ -1,0 +1,30 @@
+.wbdv-playlist {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+.wbdv-playlist-title {
+  vertical-align: center;
+  text-align: center;
+}
+
+
+.wbdv-playlist-list {
+      background-color: #555555;
+      text-align: left;
+}
+
+.wbdv-add-playlist {
+        background-color: #555555;
+}
+
+.wbdv-playlist-list-item{
+  background-color: #555555;
+  color: green;
+}
+
+li.list-group-item {
+  background-color: #495057;
+  color: white;
+}

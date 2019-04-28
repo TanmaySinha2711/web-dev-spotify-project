@@ -1,0 +1,22 @@
+.wbdv-background-color {
+    background-color: #343a40;
+    color: white;
+}
+
+.wbdv-other-profile {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.wbdv-user-outline {
+  color: white;
+  border: 1px solid #adb5bd;
+  background-color: #495057;
+  color: white;
+  position: relative;
+  padding: 10px;
+}
+
+.wbdv-profile-page {
+  word-wrap: break-word;
+}

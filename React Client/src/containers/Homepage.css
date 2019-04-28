@@ -1,0 +1,23 @@
+.wbdv-hp-background-color {
+  background-color: #343a40;
+  min-height: 100vh;
+  color: white;
+}
+
+.wbdv-homepage-title {
+  color: white;
+  background-image: url("https://images.unsplash.com/photo-1421217336522-861978fdf33a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 65vh;
+}
+
+.wbdv-homepage-title-text {
+  color: white;
+}
+
+.wbdv-homepage-text {
+  opacity:1
+}
